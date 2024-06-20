@@ -1,3 +1,9 @@
+spirv-llvm-translator-17 (17.0.0-4deepin1) unstable; urgency=medium
+
+  * chore: Bump gcc Depends to 12.
+
+ -- hudeng <hudeng@deepin.org>  Fri, 21 Jun 2024 11:42:04 +0800
+
 spirv-llvm-translator-17 (17.0.0-4) unstable; urgency=medium
 
   * Restrict watch file to 17.* releases.
